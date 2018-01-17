@@ -1,8 +1,6 @@
-# Jason's resume
+# Mr.Yang's resume
 
-> My resume powered by vue.js and deploy on ijason.cc
-
-Website: [https://ijason.cc](https://ijason.cc)
+Website: [https://www.beforeyou.me](https://www.beforeyou.me)
 
 ## Build Setup
 
