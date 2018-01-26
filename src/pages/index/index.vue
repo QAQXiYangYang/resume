@@ -56,7 +56,7 @@
         </a>
       </div>
       <div class="footer">
-        <a href="https://github.com/jas0ncn/resume" target="_blank">Star or fork this page at Github</a>
+        <a href="https://github.com/QAQXiYangYang/resume" target="_blank">Star or fork this page at Github</a>
       </div>
     </div>
   </div>
